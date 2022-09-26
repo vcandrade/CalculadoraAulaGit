@@ -11,5 +11,6 @@ public class CalculadoraTeste {
 		calc.dividir(10, 5);
 		calc.calcularRaizQuadrada(9);
 		calc.calcularPotencia(5, 3);
+		calc.calcularInveso(5);
 	}
 }

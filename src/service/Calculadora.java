@@ -31,4 +31,9 @@ public class Calculadora {
 
 		System.out.println(x + " ^ " + y + " = " + Math.pow(x, y));
 	}
+	
+	public void calcularInveso(double x) {
+		
+		System.out.println("1 / " + x + " = " + (1 / x));
+	}
 }
