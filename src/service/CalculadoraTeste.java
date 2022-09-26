@@ -10,5 +10,6 @@ public class CalculadoraTeste {
 		calc.multiplicar(10, 5);
 		calc.dividir(10, 5);
 		calc.calcularRaizQuadrada(9);
+		calc.calcularPotencia(5, 3);
 	}
 }

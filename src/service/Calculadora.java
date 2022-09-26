@@ -26,4 +26,9 @@ public class Calculadora {
 
 		System.out.println("sqrt " + x + " = " + Math.sqrt(x));
 	}
+	
+	public void calcularPotencia(int x, int y) {
+
+		System.out.println(x + " ^ " + y + " = " + Math.pow(x, y));
+	}
 }
