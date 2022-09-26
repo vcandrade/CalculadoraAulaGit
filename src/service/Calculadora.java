@@ -21,4 +21,9 @@ public class Calculadora {
 
 		System.out.println(x + " / " + y + " = " + (x / y));
 	}
+	
+	public void calcularRaizQuadrada(int x) {
+
+		System.out.println("sqrt " + x + " = " + Math.sqrt(x));
+	}
 }

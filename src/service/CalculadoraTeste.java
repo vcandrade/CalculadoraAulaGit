@@ -9,5 +9,6 @@ public class CalculadoraTeste {
 		calc.subtrair(10, 5);
 		calc.multiplicar(10, 5);
 		calc.dividir(10, 5);
+		calc.calcularRaizQuadrada(9);
 	}
 }
